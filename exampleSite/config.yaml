@@ -55,7 +55,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 这是Coucou的博客网站
+        subtitle: This is Fan Jia's blog website.
         avatar:
             enabled: true
             local: true
