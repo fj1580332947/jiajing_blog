@@ -1,7 +1,7 @@
 ---
 title: 个人介绍
 description: 这是我的个人介绍
-date: '2022-07-29'
+date: '2024-02-02'
 aliases:
   - about-us
   - about-hugo
