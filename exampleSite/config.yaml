@@ -199,7 +199,7 @@ menu:
           name: GitHub
           url: https://github.com/fj1580332947?tab=repositories
           params:
-              icon: github
+              icon: brand-github
 
         - identifier: gitee
           name: Gitee
