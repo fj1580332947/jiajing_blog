@@ -18,7 +18,7 @@ menu:
 
 comments: false
 ---
-
+<!-- 
 To use this feature, add `links` section to frontmatter.
 
 This page's frontmatter:
@@ -35,4 +35,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` field accepts both local and external images. -->
