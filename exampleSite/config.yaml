@@ -207,6 +207,12 @@ menu:
           params:
               icon: gitee
 
+        - identifier: csdn
+          name: Csdn
+          url: https://blog.csdn.net/qq_43472248
+          params:
+              icon: csdn
+
 related:
     includeNewer: true
     threshold: 60
