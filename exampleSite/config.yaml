@@ -199,13 +199,13 @@ menu:
           name: GitHub
           url: https://github.com/fj1580332947?tab=repositories
           params:
-              icon: brand-github
+              icon: brand-github2
 
         - identifier: gitee
           name: Gitee
           url: https://gitee.com/fjdaima
           params:
-              icon: brand-gitee
+              icon: gitee
 
 related:
     includeNewer: true
