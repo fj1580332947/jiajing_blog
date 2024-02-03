@@ -197,15 +197,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/Acoucou/hugo-theme-stack
+          url: https://github.com/fj1580332947?tab=repositories
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: gitee
+          name: Gitee
+          url: https://gitee.com/fjdaima
           params:
-              icon: brand-twitter
+              icon: brand-gitee
 
 related:
     includeNewer: true
