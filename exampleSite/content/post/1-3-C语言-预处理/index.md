@@ -9,6 +9,7 @@ categories = [
 tags = [
     "C语言","预处理篇"
 ]
+image = "1.jpg"
 +++
 ![](1.jpg)
 ## C语言——预处理
