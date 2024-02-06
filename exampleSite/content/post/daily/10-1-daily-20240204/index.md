@@ -38,11 +38,9 @@ Looking forward to tomorrow, and anticipating more wonderful moments to be captu
 
 Title: The Benefits of Reading
 
-<span style="color:red">这是红色的文本</span>
+Reading is an activity that has been **cherished throughout** human history for its **profound** impact on the mind and personal growth.
 
-Reading is an activity that has been <span style="color:red">cherished throughout</span>  human history for its <span style="color:red">profound</span> impact on the mind and personal growth.
-
- It's a <span style="color:red">gateway</span> to <span style="color:red">countless</span> worlds, times, and ideas, and offers <span style="color:red">enumerable</span> benefits to those who engage with it regularly.
+ It's a **gateway** to **countless** worlds, times, and ideas, and offers **enumerable** benefits to those who engage with it regularly.
 
 
 
