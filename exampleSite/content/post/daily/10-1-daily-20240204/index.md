@@ -49,5 +49,5 @@ The reason I think this painting is so important is that it stresses the impress
 
 
 
-![我的图片](./listen.png)
-![我的图2](./listen2.png)
+![我的图片](listen.png)
+![我的图2](listen2.png)
