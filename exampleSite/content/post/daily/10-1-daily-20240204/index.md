@@ -1,13 +1,13 @@
 +++
 author = "coucou"
-title = "日报——20240204"
+title = "随笔拾零01"
 date = "2024-02-04"
 description = "日报专题之20240204"
 categories = [
-    "daily"
+    "随笔拾零"
 ]
 tags = [
-    "daily"
+    "随笔拾零"
 ]
 image = "1.jpg"
 +++
