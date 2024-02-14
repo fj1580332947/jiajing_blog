@@ -19,8 +19,6 @@ image = "1.jpg"
 
 
 
-[watch New Year's videos.](./newyear.mp4) 
-
 <!-- <video width="320" height="240" autoplay controls>
   <source src="./newyear.mp4" type="video/mp4">
   对不起，您的浏览器不支持内嵌视频。
