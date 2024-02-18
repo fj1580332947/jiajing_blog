@@ -9,7 +9,7 @@ categories = [
 tags = [
     "随笔拾零"
 ]
-image = "/assets/img/1.jpg"
+image = "img/1.jpg"
 +++
 
 <!-- ![](1.jpg) -->
