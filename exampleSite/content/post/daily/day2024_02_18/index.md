@@ -2,7 +2,7 @@
 author = "coucou"
 title = "日记"
 date = "2024-02-18"
-description = "日报专题之20240204"
+description = "日报专题2024-02-18"
 categories = [
     "随笔拾零"
 ]
