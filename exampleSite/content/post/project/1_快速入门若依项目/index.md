@@ -9,7 +9,7 @@ categories = [
 tags = [
     "项目篇"
 ]
-image = "1.jpg"
+image = "1.png"
 +++
 
 ## 若依
